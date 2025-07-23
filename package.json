@@ -1,6 +1,6 @@
 {
   "name": "@superhero/id-name-generator",
-  "version": "4.7.13",
+  "version": "4.7.14",
   "description": "A simple id generator based on a randomized characteristic and anme prefix to a base 36 microseconds timestamp.",
   "keywords": [
     "id generator",
@@ -19,7 +19,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@superhero/audit": "4.7.13",
+    "@superhero/audit": "4.7.14",
     "@superhero/syntax-check": "0.0.2"
   },
   "author": {
